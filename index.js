@@ -3,7 +3,7 @@ const msg={
     from:"archanasatheesantest@gmail.com",
     to:"archana23892@gmail.com",
     subject:"Test email assignment",
-    text:"testing first email via nodemailer package"
+    text:"Hai....my message for you.testing first email via nodemailer package"
 };
 nodemailer.createTransport({
     service:'gmail',
